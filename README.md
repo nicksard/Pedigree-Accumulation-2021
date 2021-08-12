@@ -1,4 +1,9 @@
-# Pedigree-Accumulation-2021
+Pedigree-Accumulation-2021
+==========================
+
+[![DOI](https://zenodo.org/badge/375413829.svg)](https://zenodo.org/badge/latestdoi/375413829)
+
+
 This is a guidance document for the GitHub Repository “Pedigree-Accumulation-2021”, and it contains additional information to help guide researchers interested in reproducing the results in the manuscript “Pedigree Accumulation Analysis: Combining Methods from Community Ecology and Population Genetics for breeding adult estimation”. Below in a bulleted summary for the directory structure within the repository. Folder names are bulleted in Bold followed by one or more sentences that describe the contents in each folder. Sub-bullets indicate subfolders within each main directory.
 
 - <strong>Known datasets/</strong>
